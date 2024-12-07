@@ -7,4 +7,4 @@ Data:
 
 ## nsclc.ipynb
 Data: https://www.10xgenomics.com/datasets/20-k-mixture-of-nsclc-dt-cs-from-7-donors-3-v-3-1-3-1-standard-6-1-0  
-QC, filtering
+QC, filtering, normalize, feature selection
